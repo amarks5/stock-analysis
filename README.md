@@ -11,8 +11,7 @@ Biggest challenge I faced: When running my code my For loop kept repeating at ev
 ### Results
 After refactoring our code it ran much faster than the original. I believe the original code was running around 24 seconds. Whereas, the refactored code ran in microseconds (as pictured below)
 
-![Alt text](relative/path/to/img.png?raw=true "VBA_Challenge_2017")
-![Alt text](relative/path/to/img.png?raw=true "VBA_Challenge_2018")
+![alt text](https://github.com/amarks5/stock-analysis/tree/main/Resources)
 
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
@@ -21,5 +20,5 @@ After refactoring our code it ran much faster than the original. I believe the o
 ** Disadvantages: Refactoring can be costly in two ways. It can cost you time and money. Not all codes necessarily need to be factored.
 
 - How do these pros and cons apply to refactoring the original VBA script?
-** Pros: The same as other codes being refactored. In this assignment the refactoring of our code made it run significantly faster and more efficient.  
-** Cons: I felt the it was more difficult to identify where my errors were in my code.
+Pros: The same as other codes being refactored. In this assignment the refactoring of our code made it run significantly faster and more efficient.  
+Cons: I felt the it was more difficult to identify where my errors were in my code.
