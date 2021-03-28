@@ -11,7 +11,8 @@ Biggest challenge I faced: When running my code my For loop kept repeating at ev
 ### Results
 After refactoring our code it ran much faster than the original. I believe the original code was running around 24 seconds. Whereas, the refactored code ran in microseconds (as pictured below)
 
-![alt text](https://github.com/amarks5/stock-analysis/tree/main/Resources)
+![alt text](https://github.com/amarks5/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![alt text](https://github.com/amarks5/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
