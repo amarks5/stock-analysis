@@ -9,10 +9,15 @@ The pupose of this challenge was to refactor the code to loop through the stock 
 Biggest challenge I faced: When running my code my For loop kept repeating at every if statement making my ticker value overflow. The solution was to look at my excel spreadsheet, somehow I accidentally changed values in my worksheet that caused my for loop to run incorrectly.
 
 ### Results
-After refactoring our code it ran much faster than the original. I believe the original code was running around 24 seconds. Whereas, the refactored code ran in microseconds (as pictured below)
+After refactoring our code it ran much faster than the original. I believe the original code was running around 24 seconds. Whereas, the refactored code ran in microseconds (as pictured below).
 
 ![alt text](https://github.com/amarks5/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 ![alt text](https://github.com/amarks5/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+
+When looking at the stock performance 2017 was a better year overall with the majority of the stocks in the green meaning they increased! When looking at 2018 the majority were red meaning there was a percentage decrease. If you are invested in the stock market you always want to see your stocks increasing so you definitely would have had a better year in 2017 compared to 2018 (as pictured below).
+
+![alt text]()
+![alt text]()
 
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
